@@ -5,9 +5,7 @@ Do działania programu potrzebne jest więcej pamięci, jeśli więc uruchomimy 
 do realizacji programu.
 
 
-
-
-Lab6. 
-mvn install
-mvn assembly:assembly
+Lab6. <br />
+mvn install <br />
+mvn assembly:assembly <br />
 mvn exec:exec

@@ -11,4 +11,5 @@ SimpleDataFormat nie bezpieczny wątkowo, ponieważ przechowuje pośrednie wynik
 Lab6. <br />
 mvn install <br />
 mvn assembly:assembly <br />
-mvn exec:exec
+mvn exec:exec <br/>
+http://localhost:4567/hello/10 - ostatni argument przekazuje liczbę milisekund, która ma być zmieniona w funkcji <br/>

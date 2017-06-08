@@ -24,3 +24,6 @@ mvn install <br />
 mvn assembly:assembly <br />
 mvn exec:exec <br/>
 http://localhost:4567/hello/10 - ostatni argument przekazuje liczbę milisekund, która ma być zmieniona w funkcji <br/>
+
+Lab9. <br />
+Uzupełniłam ze strumieni tyle funkcji ile umiałam. <br />
